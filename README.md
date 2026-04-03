@@ -53,7 +53,7 @@ http://localhost:5173
 
 La API requiere un token en los headers de cada solicitud:
 
-Authorization: 123456
+Authorization: 12321
 
 ## Endpoints
 
