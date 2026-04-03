@@ -63,13 +63,5 @@ Obtiene la lista de tareas
 POST /tasks
 Crea una nueva tarea
 
-Ejemplo de body:
-
-{
-  "title": "Ejemplo",
-  "description": "Descripción",
-  "status": "Pendiente"
-}
-
 DELETE /tasks/:id
 Elimina una tarea por ID
